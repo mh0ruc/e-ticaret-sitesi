@@ -1,0 +1,36 @@
+#product{
+    border:1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+#like{
+    color:red;
+font-size: 50px;
+    
+}
+#fav{
+    border:1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+    margin-top: 10px;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    /* veya istediğiniz değer */
+    padding: 20px;
+  }
+  
+  .card-body {
+    flex: 1;
+  }
+ 
+#price{
+    font-weight: bold;
+}
+body{
+    background-color:darkgray;
+}
